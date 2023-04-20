@@ -1,0 +1,4 @@
+baseURL = 'https://yuvibirdi.github.io/'
+languageCode = 'en-us'
+title = 'Genetics'
+theme = 'blist'
