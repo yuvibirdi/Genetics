@@ -1,9 +1,7 @@
 #+title: Leigh Syndrome
 #+author: by, Yuvraj Singh Birdi
-#+date: 2023-04-17
 #+categories[]: emacs hugo org-mode
-#+hugo_base_dir: ~/git/genetics-website/
-* harry potter is a piece of shit and I hate him daerly be
+#+hugo_base_dir: ~/git/Genetics/genetics/
 * What is Leigh Syndrome?
 Leigh Syndrome, also known as subacute necrotizing encephalopathy, is a rare and progressive genetic disorder that affects the central nervous system, specifically the brainstem and basal ganglia. It is caused by mutations in mitochondrial DNA or nuclear DNA that disrupt the normal functioning of cells, particularly those involved in energy production (Rahman & Copeland, 2019).
 

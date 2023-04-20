@@ -1,11 +1,8 @@
 +++
 title = "Leigh Syndrome"
 author = ["by", "Yuvraj Singh Birdi"]
-date = 2023-04-17
+draft = false
 +++
-
-## harry potter is a piece of shit and I hate him daerly be {#harry-potter-is-a-piece-of-shit-and-i-hate-him-daerly-be}
-
 
 ## What is Leigh Syndrome? {#what-is-leigh-syndrome}
 
