@@ -12,7 +12,7 @@ DefaultContentLanguageInSubdir = true
     languageName = "English"
     [languages.en.params]
       introTitle = "Hey! I'm Yuvraj Singh Birdi"
-      introSubtitle = "11th Grade Student who is interested in Computer Science and Physics" 
+      introSubtitle = "11th Grade Student who is interested in Computer Science and Physics"
       introPhoto = "/yuvraj_pic.png"
       logo = "/logo.png"
     [[languages.en.menu.main]]
@@ -35,7 +35,7 @@ DefaultContentLanguageInSubdir = true
         url = "/posts/Leigh-Syndrome/"
         weight = 4
 
-
+# Comments system
 [params]
   # Enable the darkmode toggle in header
   darkModeToggle = true
@@ -71,7 +71,7 @@ DefaultContentLanguageInSubdir = true
 
   # Used to hide the post metadata such as posted date, reading time and word count
   # Can be used at site level or page level
-  hideMeta = true
+  hideMeta = false
 
   # To hide "Other languages" option if the post is available in multiple languages
   # Can be used at site level or page level

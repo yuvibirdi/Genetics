@@ -5,6 +5,9 @@
 * What is Leigh Syndrome?
 Leigh Syndrome, also known as subacute necrotizing encephalopathy, is a rare and progressive genetic disorder that affects the central nervous system, specifically the brainstem and basal ganglia. It is caused by mutations in mitochondrial DNA or nuclear DNA that disrupt the normal functioning of cells, particularly those involved in energy production (Rahman & Copeland, 2019).
 
+#+CAPTION:ragged red fibers in a muscle biopsy, as such, Leigh Syndrome is Present
+[[~/git/Genetics/genetics/data/Leigh_Trichrom.jpg]]
+
 * Who is affected by Leigh Syndrome?
 Leigh Syndrome can affect individuals of any age and gender, but it is most commonly diagnosed in infants and young children.
 
