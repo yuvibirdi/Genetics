@@ -1,0 +1,6 @@
+[submodule "genetics/themes/blist"]
+	path = genetics/themes/blist
+	url = https://github.com/apvarun/blist-hugo-theme.git
+[submodule "genetics/public"]
+	path = genetics/public
+	url = git@github.com:yuvibirdi/yuvibirdi.github.io.git
