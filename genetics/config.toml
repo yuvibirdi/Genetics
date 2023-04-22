@@ -1,4 +1,4 @@
-baseURL = 'https://yuvibirdi.github.io/'
+baseURL = 'https://test.org'
 languageCode = 'en-us'
 title = 'Genetics'
 theme = 'blist'
@@ -32,7 +32,7 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.en.menu.main]]
         name = "Genetics Summitive"
-        url = "/blog/leigh-syndrome/"
+        url = "/blog/Leigh-Syndrome/"
         weight = 4
 
 # Comments system
