@@ -8,8 +8,7 @@ description: Summitive for Genetics SBI3U0-D
 
 Leigh Syndrome, also known as subacute necrotizing encephalopathy, is a rare and progressive genetic disorder that affects the central nervous system, specifically the brainstem and basal ganglia. It is caused by mutations in mitochondrial DNA or nuclear DNA that disrupt the normal functioning of cells, particularly those involved in energy production (Rahman &amp; Copeland, 2019).
 
-{{< figure src="~/git/Genetics/genetics/data/Leigh_Trichrom.jpg" caption="<span class=\"figure-number\">Figure 1: </span>ragged red fibers in a muscle biopsy, as such, Leigh Syndrome is Present" >}}
-
+![](https://i.imgur.com/6Q8IhVn.jpeg)
 
 ## Who is affected by Leigh Syndrome? {#who-is-affected-by-leigh-syndrome}
 
