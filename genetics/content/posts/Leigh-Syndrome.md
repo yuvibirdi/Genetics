@@ -1,9 +1,9 @@
----
-author: Yuvraj Singh Birdi
-title: Leigh Syndrome 
-date: 2023-04-15
-description: Genetics:Summitive Leigh Syndrome 
----
++++
+title = "Leigh Syndrome"
+author = ["by", "Yuvraj Singh Birdi"]
+draft = false
++++
+
 ## What is Leigh Syndrome? {#what-is-leigh-syndrome}
 
 Leigh Syndrome, also known as subacute necrotizing encephalopathy, is a rare and progressive genetic disorder that affects the central nervous system, specifically the brainstem and basal ganglia. It is caused by mutations in mitochondrial DNA or nuclear DNA that disrupt the normal functioning of cells, particularly those involved in energy production (Rahman &amp; Copeland, 2019).
