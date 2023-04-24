@@ -9,7 +9,7 @@ description: Summitive for Genetics SBI3U0-D
 * Leigh Syndrome, also known as subacute necrotizing encephalopathy, is a rare and progressive genetic disorder that affects the central nervous system, specifically the brainstem and basal ganglia. 
 * It is caused by mutations in mitochondrial DNA or nuclear DNA that disrupt the normal functioning of cells, particularly those involved in energy production.(Rahman & Poulton, 2009)
 
-![](https://i.imgur.com/6Q8IhVn.jpeg)
+{{< figure src="https://i.imgur.com/6Q8IhVn.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>ragged red fibers in a muscle biopsy, as such, Leigh Syndrome is Present" >}}
 
 ## Who is affected by the Leigh Syndrome? {#who-is-affected-by-leigh-syndrome}
 
@@ -39,7 +39,8 @@ description: Summitive for Genetics SBI3U0-D
 * Leigh syndrome can have different inheritance patterns. It is most commonly inherited in an autosomal recessive pattern, which means both copies of the gene (i.e., both parents) in each cell have mutations. 
 * This pattern of inheritance applies to most of the Leigh syndrome-associated genes contained in nuclear DNA, including SURF1 and the Mitrochondrian m-Dna.(Wiki, 2023) The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
 * Therefore, Leigh's Syndrome is caused by chromosomal abnormalities and not disjunction events. Moreover, the F1 generation the probability of having the syndrome is 25% but the probability of carrying the gene is 75%.
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Autosomal_recessive_-_en.svg/800px-Autosomal_recessive_-_en.svg.png)
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Autosomal_recessive_-_en.svg/800px-Autosomal_recessive_-_en.svg.png" caption="<span class=\"figure-number\">Figure 2: </span>F1 Generation with Autosomal Recessive Genes" >}}
 
 ## Current Research {#current-research}
 * Succinic acid has been studied, and shown effective for both Leigh syndrome, and MELAS syndrome. 
